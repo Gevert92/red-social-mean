@@ -1,0 +1,19 @@
+{
+  "name": "red-social",
+  "version": "1.0.0",
+  "description": "Proyecto parecido a Twitter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gevert92/red-social-mean.git"
+  },
+  "author": "Gevert Rico",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gevert92/red-social-mean/issues"
+  },
+  "homepage": "https://github.com/Gevert92/red-social-mean#readme"
+}
